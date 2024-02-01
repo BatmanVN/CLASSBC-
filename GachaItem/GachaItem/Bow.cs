@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace GachaItem
 {
-    public class Bow : Item
+    public class Bow
     {
         public Bow()
         {
 
         }
+
+
     }
 }

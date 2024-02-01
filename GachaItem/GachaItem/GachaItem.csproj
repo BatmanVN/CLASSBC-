@@ -43,12 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Abstraction.cs" />
     <Compile Include="Armour.cs" />
     <Compile Include="Bow.cs" />
     <Compile Include="GameHelper.cs" />
     <Compile Include="Item.cs" />
-    <Compile Include="IventoryManager.cs" />
     <Compile Include="MoneyManager.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -9,7 +9,7 @@ namespace GachaItem
 {
     public class GameHelper
     {
-        public static int Getrandom(int min, int max)
+        public static float Getrandom(int min, int max)
         {
             Random r= new Random();
             return r.Next(min, max);

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GachaItem
 {
-    public class Staff : Item
+    public class Staff
     {
         public Staff() 
         {

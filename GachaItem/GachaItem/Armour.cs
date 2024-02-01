@@ -6,11 +6,13 @@ using System.Threading.Tasks;
 
 namespace GachaItem
 {
-    public class Armour : Item
+    public class Armour
     {
         public Armour()
         {
 
         }
+
+
     }
 }
